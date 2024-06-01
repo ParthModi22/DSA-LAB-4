@@ -1,8 +1,0 @@
-{
-    "C_Cpp.errorSquiggles": "disabled",
-    "files.associations": {
-        "Q1_ownSkipList.C": "cpp",
-        "Q2.C": "cpp",
-        "Q6b_AVL_deletion.C": "cpp"
-    }
-}
